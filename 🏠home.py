@@ -231,7 +231,7 @@ markdown = """
     <a href='https://github.com/mruiyangyou/STAT0025-Operational-Research-Calculator.git' class='btn btn-dark btn-lg db icon margin-right'>
     <i class="fa-brands fa-github icon"></i><span style="color: white;"> Github</span>
     </a>
-    <a href='https://github.com/mruiyangyou/STAT0025-Operational-Research-Calculator.git' class='btn btn-dark btn-lg db icon'>
+    <a href='https://github.com/mruiyangyou/STAT0025-Operational-Research-Calculator/blob/main/notes/notes.pdf' class='btn btn-dark btn-lg db icon'>
     <i class="fa-solid fa-bookmark icon"></i><span style="color: white;"> Notes</span>
     </a>
 </div>
