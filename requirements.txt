@@ -22,4 +22,4 @@ six==1.16.0
 Werkzeug==2.2.2
 XlsxWriter==3.0.3
 zipp==3.8.1
-stream==1.25.0
+streamlit==1.25.0
